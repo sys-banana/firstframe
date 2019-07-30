@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00be28</color>
+    <color name="colorPrimaryDark">#00be28</color>
+    <color name="colorAccent">#00be28</color>
+
+    <color name="tool_bar_color">#00be28</color>
+    <color name="bg_color">#00be28</color>
+
+    <color name="text_color_white">#FFFFFF</color>
+    <color name="text_bg_gray">#99000000</color>
+
+    <color name="bg_black">#FFF</color>
+</resources>
